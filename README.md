@@ -1,4 +1,5 @@
-[![MasterHead](https://cdn.pixabay.com/animation/2023/01/24/10/52/10-52-12-184_512.gif)](https://digantadiasi195.io)
+[![Click to View Full Screen](https://cdn.pixabay.com/animation/2023/01/24/10/52/10-52-12-184_512.gif)](https://digantadiasi195.io)
+
 
 <h1 align="center">Hi 👋, I'm Diganta Diasi</h1>
 <h3 align="center">An IIT Graduate | Problem Solver | Tech Enthusiast</h3>
