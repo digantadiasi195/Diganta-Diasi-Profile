@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **digantadiasi7@gmail.com**
 
-- 📄 My resume link <a href="https://drive.google.com/file/d/1CK0TC2VUs9G2ERYqv-xXIieSpQpGnpnq/view?usp=sharing" target="blank">click here</a>
+- 📄 My resume link <a href="S" target="blank">click here</a>
 
 - ⚡ Fun fact **I am funny😜**
 
